@@ -30,7 +30,7 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio setup and mobile first<a name="about-project"></a>
+# 📖 capStoneProject<a name="about-project"></a>
 Portfolio setup  is my second project at microverse which i created with html and css and linter configuration
 
 ## 🛠 Built With <a name="built-with"></a>
